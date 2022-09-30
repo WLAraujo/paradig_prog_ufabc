@@ -1,0 +1,5 @@
+Semigrupo = Par de um conjunto C e um operador <>, que garante que se a e b pertencem a C, então o resultado de a <> b também pertence a C.
+
+Vale destacar que semigrupos são associativos, isso é (a<>b)<>c=a(b<>c).
+
+Monoid = Um monoid nada mais é que um semigrupo que possui um terceiro elemento, o elemento neutro. Lembrando que a neutralidade desse elemento deve ser à esquerda e à direita.
